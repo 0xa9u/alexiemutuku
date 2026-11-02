@@ -1,42 +1,33 @@
-# Hi there! I'm [Alex](https://alexmutuku.com/) 👋
+# Alex Mutuku
 
-🎓 Student @ [UON](https://www.uonbi.ac.ke) | 🖥 Full-Stack Developer @ [Azure A/S](https://azure.com/)
----------------------
+Computer science graduate and software developer interested in **cybersecurity, distributed systems, backend engineering, networking, and practical software for real-world operations**.
 
-I'm a fullstack developer with a couple years of professional experience.
-Im currently studying Artificial Intelligence at the University of Nairobi while working at [Azure A/S](https://azure.com/) building enterprise applications using .NET, EF Core, Angular & Vue.js.
-I love a challenge and to learn and apply new techniques, technologies and knowledge.
+I hold a **First Class Honours BSc in Computer Science** from the University of Nairobi and a **Bachelor of Commerce**. My work spans Python, Django, relational databases, infrastructure, embedded systems, and application security.
 
-Show your self around ;)
+## Areas of focus
 
-* 🖥️  See my portfolio at [alexmutuku.com](http://alexmutuku.com)
+- **Backend and systems:** Python, Django, PostgreSQL, REST APIs, Docker and Linux.
+- **Security and networks:** security engineering, access-control integrations, network services and protocol analysis.
+- **Embedded/IoT:** ESP32, Raspberry Pi, firmware workflows and device integration.
+- **Research and learning:** machine learning, distributed databases, blockchain applications and compiler construction.
 
-<details open>
-  <summary><h2>GitHub Stats</h2></summary>
-  <a href="https://github.com/alexiemutuku" style="display:flex;justify-content:space-between">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmutuku&theme=transparent&show_icons=true&count_private=true" alt="alexmutuku's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmutuku&ver2&layout=compact&theme=transparent" 
-      alt="alexmutuku's GitHub Top Languages" />
-  </a>
-  <img width="0" height="0" src="https://komarev.com/ghpvc/?username=alexmutuku&style=flat" />
-</details>
+## Selected projects
 
-### Skills
+| Project | Description |
+| --- | --- |
+| [ARBS](https://github.com/0xa9u/ARBS) | Private estate-management platform covering billing, reconciliation, accounting and resident services. |
+| [ZKTeco Security PUSH / ADMS Python](https://github.com/0xa9u/zkteco-security-push-adms-python) | Open-source diagnostic Python receiver for ZKTeco device registration and RFID event uploads. |
+| [Amani IoT](https://github.com/0xa9u/Amani_IOT) | ESP32-based smart-home automation project. |
+| [TRISS](https://github.com/0xa9u/TRISS) | Academic transaction risk-scoring prototype. |
+| [DDBS](https://github.com/0xa9u/ddbs) | Distributed-database coursework and middleware experiments. |
 
-<p align="left">
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+Some projects are private or educational prototypes; visibility and deployment status vary. Links to private projects will only work for authorized collaborators.
 
-</p>
+## Connect
 
+- [LinkedIn](https://www.linkedin.com/in/alexmutuku)
+- [GitHub projects](https://github.com/0xa9u)
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/alexiemutuku" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexmutuku" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+*This README is maintained as a concise portfolio overview; project-specific documentation is kept in each repository.*
